@@ -1,1 +1,6 @@
-Soon adding project Degrees...
+Steps to run:
+Git clone the repo
+
+
+
+Run 
